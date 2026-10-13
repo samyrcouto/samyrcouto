@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="72" viewBox="0 0 1000 72"><rect width="1000" height="72" fill="#080808"/><path d="M0 70H1000" stroke="#111" stroke-width="1"/><text x="8" y="28" font-family="Copperplate Gothic, Copperplate, serif" font-size="12" letter-spacing="3" fill="#777">01</text><text x="56" y="31" font-family="Copperplate Gothic, Copperplate, serif" font-size="22" letter-spacing="2.8" fill="#111">PROFILE</text><text x="990" y="28" text-anchor="end" font-family="Arial, sans-serif" font-size="10" letter-spacing="2" fill="#777">SAMYR COUTO</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="52" viewBox="0 0 1000 52">
+<rect width="1000" height="52" fill="#080808"/>
+<text x="0" y="34" font-family="Copperplate Gothic, Copperplate, 'Times New Roman', serif" font-size="28" fill="#F5F5F5">01  /  PROFILE</text>
+</svg>

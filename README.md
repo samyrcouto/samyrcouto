@@ -1,26 +1,27 @@
 <div align="left">
 
-# SAMYR COUTO OLIVEIRA
+<!-- Monochrome editorial profile inspired by a minimalist 1990s business card. -->
+
+![SAMYR COUTO OLIVEIRA](assets/header.svg)
 
 ---
 
-# SOFTWARE  
-# DEVELOPMENT
+![SOFTWARE DEVELOPMENT](assets/title.svg)
 
-JAVA&nbsp; / &nbsp;APIs&nbsp; / &nbsp;DATABASES&nbsp; / &nbsp;CLOUD & IoT
+<sub>JAVA&nbsp; / &nbsp;APIs&nbsp; / &nbsp;DATABASES&nbsp; / &nbsp;CLOUD &amp; IoT</sub>
 
 **FIAP&nbsp; · &nbsp;ADS&nbsp; · &nbsp;2026**
 
 ---
 
-## 01&nbsp; / &nbsp;PROFILE
+![01 / PROFILE](assets/profile.svg)
 
 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP.**
 
 Projetos acadêmicos, desenvolvimento backend, APIs REST,  
 bancos de dados, cloud e integração com IoT.
 
-## 02&nbsp; / &nbsp;SELECTED PROJECTS
+![02 / SELECTED PROJECTS](assets/projects.svg)
 
 <table>
 <tr>
@@ -85,7 +86,7 @@ Aplicação web explorando integração com serviços backend e APIs.
 </tr>
 </table>
 
-## 03&nbsp; / &nbsp;TECHNICAL SKILLS
+![03 / TECHNICAL SKILLS](assets/skills.svg)
 
 | | |
 |:--|:--|
@@ -102,4 +103,3 @@ Aplicação web explorando integração com serviços backend e APIs.
 <sub>PORTUGUÊS AVANÇADO&nbsp; · &nbsp;ENGLISH B1+ CAMBRIDGE</sub>
 
 </div>
-
