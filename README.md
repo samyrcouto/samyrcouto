@@ -2,12 +2,12 @@
 
 <p align="center"><a href="#projetos">Projetos</a> &nbsp;·&nbsp; <a href="#stack">Stack</a> &nbsp;·&nbsp; <a href="#contato">Contato</a></p>
 
-Desenvolvo sistemas backend, APIs REST, bancos de dados, cloud e IoT.<br>
-Formatura prevista para dez/2026.
+<p align="center">Desenvolvo sistemas backend, APIs REST, bancos de dados, cloud e IoT.<br>
+Formatura prevista para dez/2026.</p>
 
 <br>
 
-## Projetos
+<h2 align="center">Projetos</h2>
 
 <p>
 <a href="https://github.com/Group-GS/Gs-Java"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/projeto-agro-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/cards/projeto-agro-light.svg"><img alt="Projeto Agro: API em Java e persistência de dados para monitoramento agrícola com sensores ESP32." src="assets/cards/projeto-agro-dark.svg" width="100%"></picture></a><br>
@@ -18,19 +18,21 @@ Formatura prevista para dez/2026.
 
 <br>
 
-## Stack
+<h2 align="center">Stack</h2>
 
-- **Backend** <code>Java</code> <code>Spring Boot</code> <code>APIs REST</code>
-- **Bancos de dados** <code>Oracle</code> <code>SQL</code> <code>PL/SQL</code> <code>MySQL</code>
-- **Frontend** <code>JavaScript</code> <code>TypeScript</code> <code>React</code>
-- **Cloud e DevOps** <code>Azure</code> <code>Docker</code> <code>Git</code> <code>Azure DevOps</code>
-- **IoT** <code>ESP32</code> <code>MQTT</code> <code>Node-RED</code>
+<p align="center">
+<b>Backend</b>&nbsp;&nbsp;<code>Java</code> <code>Spring Boot</code> <code>APIs REST</code><br>
+<b>Bancos de dados</b>&nbsp;&nbsp;<code>Oracle</code> <code>SQL</code> <code>PL/SQL</code> <code>MySQL</code><br>
+<b>Frontend</b>&nbsp;&nbsp;<code>JavaScript</code> <code>TypeScript</code> <code>React</code><br>
+<b>Cloud e DevOps</b>&nbsp;&nbsp;<code>Azure</code> <code>Docker</code> <code>Git</code> <code>Azure DevOps</code><br>
+<b>IoT</b>&nbsp;&nbsp;<code>ESP32</code> <code>MQTT</code> <code>Node-RED</code>
+</p>
 
 <br>
 
-## Contato
+<h2 align="center">Contato</h2>
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/samyr-couto-12932834b/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/buttons/linkedin-light.svg"><img alt="LinkedIn" src="assets/buttons/linkedin-dark.svg"></picture></a>
 <a href="mailto:ssmyrcouto@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/buttons/email-light.svg"><img alt="Email" src="assets/buttons/email-dark.svg"></picture></a>
 </p>
