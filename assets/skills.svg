@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="52" viewBox="0 0 1000 52">
-<rect width="1000" height="52" fill="#080808"/>
-<text x="0" y="34" font-family="Copperplate Gothic, Copperplate, 'Times New Roman', serif" font-size="28" fill="#F5F5F5">03  /  TECHNICAL SKILLS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="48" viewBox="0 0 1000 48">
+<rect width="1000" height="48" fill="#000000"/>
+<text x="0" y="29" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="400">03 / TECHNICAL SKILLS</text>
+<line x1="0" y1="43" x2="1000" y2="43" stroke="#666666" stroke-width="1"/>
 </svg>

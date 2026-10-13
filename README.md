@@ -1,27 +1,30 @@
 <div align="left">
 
-<!-- Monochrome editorial profile inspired by a minimalist 1990s business card. -->
+<!-- Black-and-white profile. GitHub controls Markdown typography. -->
+<p align="left">
+  <img src="assets/header.svg" alt="Samyr Couto Oliveira — Software Development" width="100%" />
+</p>
 
-![SAMYR COUTO OLIVEIRA](assets/header.svg)
+# SAMYR COUTO OLIVEIRA
 
 ---
 
-![SOFTWARE DEVELOPMENT](assets/title.svg)
+## SOFTWARE DEVELOPMENT
 
-<sub>JAVA&nbsp; / &nbsp;APIs&nbsp; / &nbsp;DATABASES&nbsp; / &nbsp;CLOUD &amp; IoT</sub>
+JAVA&nbsp; / &nbsp;APIs&nbsp; / &nbsp;DATABASES&nbsp; / &nbsp;CLOUD & IoT
 
 **FIAP&nbsp; · &nbsp;ADS&nbsp; · &nbsp;2026**
 
 ---
 
-![01 / PROFILE](assets/profile.svg)
+## 01 / PROFILE
 
 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP.**
 
 Projetos acadêmicos, desenvolvimento backend, APIs REST,  
 bancos de dados, cloud e integração com IoT.
 
-![02 / SELECTED PROJECTS](assets/projects.svg)
+## 02 / SELECTED PROJECTS
 
 <table>
 <tr>
@@ -86,7 +89,7 @@ Aplicação web explorando integração com serviços backend e APIs.
 </tr>
 </table>
 
-![03 / TECHNICAL SKILLS](assets/skills.svg)
+## 03 / TECHNICAL SKILLS
 
 | | |
 |:--|:--|
