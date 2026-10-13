@@ -1,53 +1,90 @@
-<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Samyr Couto Oliveira, Software Development student at FIAP" src="assets/header-dark.svg" width="100%">
+</picture>
 
-# Samyr Couto Oliveira
+<p>
+<a href="#projects"><kbd>&nbsp;Projects&nbsp;</kbd></a>
+<a href="#stack"><kbd>&nbsp;Stack&nbsp;</kbd></a>
+<a href="#contact"><kbd>&nbsp;Contact&nbsp;</kbd></a>
+</p>
 
-**Software Development Student · FIAP**
-
-Backend development, REST APIs, databases, cloud and IoT.
-
-[GitHub](https://github.com/samyrcouto) · [LinkedIn](https://www.linkedin.com/in/samyr-couto-12932834b/) · [Email](mailto:ssmyrcouto@gmail.com)
-
----
+Building backend systems, REST APIs, databases, cloud and IoT.<br>
+**Education:** Systems Analysis and Development, FIAP (expected Dec 2026)<br>
+**English:** B1+ Cambridge
 
 ## Projects
 
-**[Projeto Agro](https://github.com/Group-GS/Gs-Java)**  
-`Java` `API` `ESP32`  
-Java API and data persistence for agricultural monitoring with ESP32 sensors.
+<sub>Click a project to expand it.</sub>
 
-**[Clyvo Vet — Database Challenge](https://github.com/Challenge-CLYVO/Database-Challenge)**  
-`Oracle SQL` `PL/SQL`  
-Database modeling, procedures, functions and triggers.
+<details open>
+<summary><b>Projeto Agro</b>&nbsp;&nbsp;<sub>IoT API</sub></summary>
+<br>
+Java API and data persistence for agricultural monitoring with ESP32 sensors.<br><br>
+<code>Java</code> <code>API</code> <code>ESP32</code><br><br>
+<a href="https://github.com/Group-GS/Gs-Java"><kbd>Open repository</kbd></a>
+<br><br>
+</details>
 
-**[Dimdim Music](https://github.com/samyrcouto/dimdim-music-devops5)**  
-`Java` `Spring Boot` `Swagger` `Azure`  
-REST API for a music catalog with API documentation.
+<details>
+<summary><b>Clyvo Vet</b>&nbsp;&nbsp;<sub>Database</sub></summary>
+<br>
+Database Challenge: modeling, procedures, functions and triggers.<br><br>
+<code>Oracle SQL</code> <code>PL/SQL</code><br><br>
+<a href="https://github.com/Challenge-CLYVO/Database-Challenge"><kbd>Open repository</kbd></a>
+<br><br>
+</details>
 
-**[IoT Reservoir Monitoring](https://github.com/samyrcouto/IOT-Sistema-Reservatorio)**  
-`ESP32` `MQTT` `Node-RED` `MySQL`  
-IoT monitoring with device communication and database integration.
+<details>
+<summary><b>Dimdim Music</b>&nbsp;&nbsp;<sub>REST API</sub></summary>
+<br>
+REST API for a music catalog with API documentation.<br><br>
+<code>Java</code> <code>Spring Boot</code> <code>Swagger</code> <code>Azure</code><br><br>
+<a href="https://github.com/samyrcouto/dimdim-music-devops5"><kbd>Open repository</kbd></a>
+<br><br>
+</details>
 
-**[CP4 Mobile](https://github.com/samyrcouto/cp4-mobile)**  
-`React Native` `TypeScript` `Firebase`  
-Mobile application with authentication, profiles and Firebase integration.
+<details>
+<summary><b>IoT Reservoir Monitoring</b>&nbsp;&nbsp;<sub>IoT</sub></summary>
+<br>
+IoT monitoring with device communication and database integration.<br><br>
+<code>ESP32</code> <code>MQTT</code> <code>Node-RED</code> <code>MySQL</code><br><br>
+<a href="https://github.com/samyrcouto/IOT-Sistema-Reservatorio"><kbd>Open repository</kbd></a>
+<br><br>
+</details>
 
-**[Future Work](https://github.com/samyrcouto/Future-Work)**  
-`React` `Vite` `TypeScript`  
-Web application exploring backend service and API integration.
+<details>
+<summary><b>CP4 Mobile</b>&nbsp;&nbsp;<sub>Mobile</sub></summary>
+<br>
+Mobile application with authentication, profiles and Firebase integration.<br><br>
+<code>React Native</code> <code>TypeScript</code> <code>Firebase</code><br><br>
+<a href="https://github.com/samyrcouto/cp4-mobile"><kbd>Open repository</kbd></a>
+<br><br>
+</details>
 
----
+<details>
+<summary><b>Future Work</b>&nbsp;&nbsp;<sub>Web</sub></summary>
+<br>
+Web application exploring backend service and API integration.<br><br>
+<code>React</code> <code>Vite</code> <code>TypeScript</code><br><br>
+<a href="https://github.com/samyrcouto/Future-Work"><kbd>Open repository</kbd></a>
+<br><br>
+</details>
 
-## Technologies
+## Stack
 
-- **Backend:** Java, Spring Boot, REST APIs
-- **Databases:** Oracle, SQL, PL/SQL, MySQL
-- **Frontend:** JavaScript, TypeScript, React
-- **Cloud & DevOps:** Azure, Docker, Git, Azure DevOps
-- **IoT:** ESP32, MQTT, Node-RED
+| Area | Tools |
+| :-- | :-- |
+| Backend | <code>Java</code> <code>Spring Boot</code> <code>REST APIs</code> |
+| Databases | <code>Oracle</code> <code>SQL</code> <code>PL/SQL</code> <code>MySQL</code> |
+| Frontend | <code>JavaScript</code> <code>TypeScript</code> <code>React</code> |
+| Cloud & DevOps | <code>Azure</code> <code>Docker</code> <code>Git</code> <code>Azure DevOps</code> |
+| IoT | <code>ESP32</code> <code>MQTT</code> <code>Node-RED</code> |
 
----
+## Contact
 
-**English:** B1+ Cambridge · **Education:** Systems Analysis and Development, FIAP · Expected graduation: Dec 2026
+<a href="https://www.linkedin.com/in/samyr-couto-12932834b/"><kbd>&nbsp;LinkedIn&nbsp;</kbd></a>
+<a href="mailto:ssmyrcouto@gmail.com"><kbd>&nbsp;Email&nbsp;</kbd></a>
 
-</div>
+<sub><a href="#">Back to top</a></sub>
