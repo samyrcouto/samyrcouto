@@ -1,111 +1,153 @@
-<!-- README para o repositório de perfil: samyrcouto/samyrcouto -->
+<!-- Perfil pessoal inspirado em layout editorial com assets responsivos a tema claro/escuro -->
 
-<h1 align="left">Olá! Eu sou o Samyr Couto 👋</h1>
-
-<p align="left">
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas na FIAP</strong> ·
-  Foco em desenvolvimento de software, APIs e bancos de dados.
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Samyr Couto — desenvolvimento de software, Java, APIs, dados, cloud e IoT" width="100%">
+</picture>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/samyr-couto-12932834b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ssmyrcouto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
+  <a href="https://www.linkedin.com/in/samyr-couto-12932834b/"><img src="https://img.shields.io/badge/linkedin-Samyr_Couto-0B0D10?style=flat-square&logo=linkedin&logoColor=C8F135&labelColor=12161B" alt="LinkedIn"></a>
+  <a href="mailto:ssmyrcouto@gmail.com"><img src="https://img.shields.io/badge/email-ssmyrcouto-0B0D10?style=flat-square&logo=gmail&logoColor=C8F135&labelColor=12161B" alt="E-mail"></a>
+  <a href="https://github.com/samyrcouto"><img src="https://img.shields.io/badge/GitHub-samyrcouto-0B0D10?style=flat-square&logo=github&logoColor=C8F135&labelColor=12161B" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/ADS-FIAP-0B0D10?style=flat-square&labelColor=12161B&color=C8F135" alt="Análise e Desenvolvimento de Sistemas na FIAP">
 </p>
 
----
+<br>
 
-## Sobre mim
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/01-problem-dark.svg">
+  <img src="assets/01-problem-light.svg" alt="01 · O que me move" width="100%">
+</picture>
 
-Sou estudante de ADS e gosto de aprender desenvolvendo projetos em equipe. Tenho trabalhado principalmente com **Java, Spring Boot, APIs REST, SQL e modelagem de bancos de dados**, além de explorar cloud, containers e integração com dispositivos IoT.
+Eu gosto de entender como as partes de um sistema se conectam: **a regra de negócio, a API, o banco de dados e quem usa a solução**. Estudo Análise e Desenvolvimento de Sistemas na FIAP e venho construindo essa base por meio de projetos acadêmicos e trabalho em equipe.
 
-Nos projetos acadêmicos, participo do desenvolvimento das aplicações, da organização das soluções e da integração entre código e banco de dados. Busco evoluir com prática, colaboração e entendimento dos problemas que cada projeto procura resolver.
+Meu foco hoje está em **backend com Java, APIs REST e bancos de dados**, explorando também cloud, containers e integração com IoT.
 
-## Stack
+<br>
 
-| Área | Tecnologias e ferramentas |
-|---|---|
-| **Backend** | Java · Spring Boot · Spring Data JPA · APIs REST · Python · Flask (básico) |
-| **Bancos de dados** | Oracle Database · SQL · PL/SQL · MySQL · SQL Server / Azure SQL · H2 |
-| **Frontend** | JavaScript · TypeScript · React · HTML · CSS · Vite |
-| **Cloud & DevOps** | Microsoft Azure · Docker · Docker Compose · Git · GitHub · Azure DevOps |
-| **Documentação e testes de API** | Swagger / OpenAPI · Postman |
-| **IoT e mensageria** | ESP32 · MQTT · Node-RED · Arduino |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/02-principles-dark.svg">
+  <img src="assets/02-principles-light.svg" alt="02 · Como eu trabalho" width="100%">
+</picture>
 
-## Tecnologias e linguagens
+<table>
+  <tr>
+    <td width="50%" valign="top"><code>[1]</code> <b>Entender antes de implementar.</b><br><sub>Começo pelo problema e pelas regras que a solução precisa atender.</sub></td>
+    <td width="50%" valign="top"><code>[2]</code> <b>Dados bem pensados ajudam o sistema inteiro.</b><br><sub>Dou atenção à modelagem, às relações e à consistência do banco.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><code>[3]</code> <b>Construir em equipe.</b><br><sub>Colaboro na implementação e na organização das entregas, sem perder de vista o objetivo comum.</sub></td>
+    <td width="50%" valign="top"><code>[4]</code> <b>Aprender fazendo.</b><br><sub>Testo, corrijo e procuro entender por que uma solução funciona — ou não.</sub></td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42" alt="Oracle" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" alt="Azure" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" />
-</p>
+<br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/03-shipped-dark.svg">
+  <img src="assets/03-shipped-light.svg" alt="03 · Projetos em campo" width="100%">
+</picture>
 
-## O que estou construindo
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Group-GS/Gs-Java">Projeto Agro</a></h3>
+      API Java e persistência de dados em uma solução de monitoramento agrícola integrada a sensores ESP32.
+      <br><br><sub><b>FOCO</b> · Contribuição no desenvolvimento da API, banco de dados e integração entre componentes.</sub>
+      <br><br><code>Java</code> <code>Spring Boot</code> <code>Oracle SQL</code> <code>ESP32</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Challenge-CLYVO/Database-Challenge">Clyvo Vet · Database Challenge</a></h3>
+      Projeto de banco de dados com modelagem e implementação de objetos e rotinas para apoiar regras de negócio.
+      <br><br><sub><b>FOCO</b> · SQL, PL/SQL, procedures, functions, packages, triggers e tratamento de erros.</sub>
+      <br><br><code>Oracle</code> <code>SQL</code> <code>PL/SQL</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/samyrcouto/dimdim-music-devops5">Dimdim Music · DevOps</a></h3>
+      API REST para catálogo musical, com documentação da API e práticas relacionadas ao ecossistema Azure.
+      <br><br><sub><b>FOCO</b> · Desenvolvimento backend e documentação técnica.</sub>
+      <br><br><code>Java</code> <code>Spring Boot</code> <code>Swagger</code> <code>Azure</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/samyrcouto/IOT-Sistema-Reservatorio">Sistema de Reservatório · IoT</a></h3>
+      Projeto de monitoramento usando microcontrolador, mensageria e armazenamento de dados.
+      <br><br><sub><b>FOCO</b> · Comunicação entre ESP32, MQTT, Node-RED e banco de dados.</sub>
+      <br><br><code>ESP32</code> <code>MQTT</code> <code>Node-RED</code> <code>MySQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/samyrcouto/cp4-mobile">CP4 Mobile</a></h3>
+      Aplicação mobile com fluxo de autenticação, perfil e integração com serviços Firebase.
+      <br><br><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Firestore</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/samyrcouto/Future-Work">Future Work</a></h3>
+      Aplicação web desenvolvida com React e TypeScript, explorando integração com serviços backend.
+      <br><br><code>React</code> <code>Vite</code> <code>TypeScript</code> <code>REST API</code>
+    </td>
+  </tr>
+</table>
 
-- **[Projeto Agro — API Java](https://github.com/Group-GS/Gs-Java)** — projeto de monitoramento agrícola com API Java, persistência de dados e integração com sensores ESP32.
-- **[Clyvo Vet — Database Challenge](https://github.com/Challenge-CLYVO/Database-Challenge)** — projeto de banco de dados com Oracle SQL e PL/SQL, incluindo objetos e rotinas para apoiar as regras da aplicação.
-- **[Dimdim Music — DevOps](https://github.com/samyrcouto/dimdim-music-devops5)** — API REST para catálogo musical, com documentação via Swagger/OpenAPI e práticas relacionadas a Azure e DevOps.
-- **[Sistema de Reservatório — IoT](https://github.com/samyrcouto/IOT-Sistema-Reservatorio)** — integração de ESP32, MQTT, Node-RED e MySQL para monitoramento de reservatório.
-- **[CP4 Mobile](https://github.com/samyrcouto/cp4-mobile)** — aplicação mobile com React Native, Expo, TypeScript e Firebase/Firestore.
-- **[Future Work](https://github.com/samyrcouto/Future-Work)** — aplicação web com React, Vite e TypeScript, explorando integração com serviços backend.
-- **[Global Solution 2026](https://github.com/Challenge-HC-FIAP/GlobalSolution2)** — projeto acadêmico com foco em tecnologia aplicada ao monitoramento ambiental.
+<br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/04-scope-dark.svg">
+  <img src="assets/04-scope-light.svg" alt="04 · Stack" width="100%">
+</picture>
 
-## Como eu desenvolvo
+<p><img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,html,css,mysql,oracle,docker,azure,git,github&theme=dark" alt="Java, Spring, Python, JavaScript, TypeScript, React, HTML, CSS, MySQL, Oracle, Docker, Azure, Git e GitHub" height="44"></p>
 
-Gosto de entender o problema e como as partes da solução se conectam — da modelagem dos dados à API e à aplicação que consome esses dados.
+```text
+backend       Java · Spring Boot · Spring Data JPA · APIs REST
+bancos        Oracle · SQL · PL/SQL · MySQL · SQL Server / Azure SQL
+frontend      JavaScript · TypeScript · React · HTML · CSS · Vite
+cloud/devops  Microsoft Azure · Docker · Docker Compose · Git · Azure DevOps
+api tools     Swagger / OpenAPI · Postman
+IoT           ESP32 · MQTT · Node-RED · Arduino
+```
 
-**Meu jeito de trabalhar:**
+<br>
 
-1. Entender o objetivo e dividir o problema com a equipe.
-2. Pensar na estrutura dos dados e nas responsabilidades da aplicação.
-3. Implementar, testar e ajustar de forma incremental.
-4. Documentar o necessário para facilitar o uso e a manutenção do projeto.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/05-non-goals-dark.svg">
+  <img src="assets/05-non-goals-light.svg" alt="05 · O que eu priorizo" width="100%">
+</picture>
 
-## O que estou aprofundando
+```diff
+- adicionar tecnologia só para encher a lista
+- esconder decisões importantes atrás de código complicado
+- afirmar experiência que ainda estou construindo
++ resolver o problema com clareza
++ aprender com feedback e colaboração
++ documentar o que ajuda outra pessoa a continuar
+```
 
-- Desenvolvimento de APIs REST com Java e Spring Boot.
-- Modelagem de dados, SQL e PL/SQL.
-- Containerização e execução de aplicações com Docker.
-- Serviços de cloud e práticas de DevOps no Azure.
-- Integração entre aplicações backend, bancos de dados e dispositivos IoT.
+<br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/06-roadmap-dark.svg">
+  <img src="assets/06-roadmap-light.svg" alt="06 · Próximos passos" width="100%">
+</picture>
 
-## Atividade no GitHub
+- [x] Construir projetos acadêmicos com Java, SQL e APIs
+- [x] Explorar integração entre backend, dados e IoT
+- [ ] Aprofundar arquitetura de APIs e testes automatizados
+- [ ] Evoluir em cloud, Docker e práticas de CI/CD
+- [ ] Concluir ADS na FIAP — previsão: dezembro de 2026
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samyrcouto&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Estatísticas do GitHub de Samyr" height="165" />
-  <img src="https://streak-stats.demolab.com?user=samyrcouto&locale=pt_BR&timezone=America%2FSao_Paulo&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=8" alt="Sequência de contribuições de Samyr" height="165" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyrcouto&layout=compact&langs_count=8&locale=pt-br&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Linguagens mais usadas nos repositórios públicos de Samyr" height="150" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/07-see-also-dark.svg">
+  <img src="assets/07-see-also-light.svg" alt="07 · Vamos conversar" width="100%">
+</picture>
 
----
+Estou buscando uma oportunidade de **estágio em desenvolvimento de software**, especialmente em backend, APIs e bancos de dados. Se quiser trocar uma ideia sobre projetos ou tecnologia, me chama pelo [LinkedIn](https://www.linkedin.com/in/samyr-couto-12932834b/) ou [e-mail](mailto:ssmyrcouto@gmail.com).
 
-## Contato
-
-- **LinkedIn:** [linkedin.com/in/samyr-couto-12932834b](https://www.linkedin.com/in/samyr-couto-12932834b/)
-- **E-mail:** [ssmyrcouto@gmail.com](mailto:ssmyrcouto@gmail.com)
-- **GitHub:** [github.com/samyrcouto](https://github.com/samyrcouto)
-
-> Buscando oportunidade de estágio em desenvolvimento de software, com interesse especial em backend, APIs e bancos de dados.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" alt="Samyr · São Paulo, Brasil · 2026" width="100%">
+</picture>
