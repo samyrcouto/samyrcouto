@@ -1,47 +1,31 @@
 <div align="left">
 
-<!-- Black-and-white profile. GitHub controls Markdown typography. -->
-<p align="left">
-  <img src="assets/header.svg" alt="Samyr Couto Oliveira — Software Development" width="100%" />
-</p>
+![Software Development](assets/header.svg)
 
-# SAMYR COUTO OLIVEIRA
-
----
-
-## SOFTWARE DEVELOPMENT
-
-JAVA&nbsp; / &nbsp;APIs&nbsp; / &nbsp;DATABASES&nbsp; / &nbsp;CLOUD & IoT
-
-**FIAP&nbsp; · &nbsp;ADS&nbsp; · &nbsp;2026**
-
----
-
-## 01 / PROFILE
+![01 / Profile](assets/profile.svg)
 
 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP.**
 
-Projetos acadêmicos, desenvolvimento backend, APIs REST,  
-bancos de dados, cloud e integração com IoT.
+Projetos acadêmicos, desenvolvimento backend, APIs REST, bancos de dados, cloud e integração com IoT.
 
-## 02 / SELECTED PROJECTS
+![02 / Selected Projects](assets/projects.svg)
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [PROJETO AGRO](https://github.com/Group-GS/Gs-Java)
+**[PROJETO AGRO](https://github.com/Group-GS/Gs-Java)**
 
-<sub><b>JAVA&nbsp; · &nbsp;API&nbsp; · &nbsp;IoT</b></sub>
+<sub>JAVA · API · IoT</sub>
 
 API Java e persistência de dados para monitoramento agrícola integrado a sensores ESP32.
 
 </td>
 <td width="50%" valign="top">
 
-### [CLYVO VET](https://github.com/Challenge-CLYVO/Database-Challenge)
+**[CLYVO VET](https://github.com/Challenge-CLYVO/Database-Challenge)**
 
-<sub><b>ORACLE&nbsp; · &nbsp;SQL&nbsp; · &nbsp;PL/SQL</b></sub>
+<sub>ORACLE · SQL · PL/SQL</sub>
 
 Modelagem e rotinas de banco de dados, incluindo procedures, functions e triggers.
 
@@ -50,18 +34,18 @@ Modelagem e rotinas de banco de dados, incluindo procedures, functions e trigger
 <tr>
 <td width="50%" valign="top">
 
-### [DIMDIM MUSIC](https://github.com/samyrcouto/dimdim-music-devops5)
+**[DIMDIM MUSIC](https://github.com/samyrcouto/dimdim-music-devops5)**
 
-<sub><b>JAVA&nbsp; · &nbsp;SPRING BOOT&nbsp; · &nbsp;DEVOPS</b></sub>
+<sub>JAVA · SPRING BOOT · DEVOPS</sub>
 
 API REST para catálogo musical, documentação Swagger/OpenAPI e práticas Azure.
 
 </td>
 <td width="50%" valign="top">
 
-### [SISTEMA DE RESERVATÓRIO](https://github.com/samyrcouto/IOT-Sistema-Reservatorio)
+**[SISTEMA DE RESERVATÓRIO](https://github.com/samyrcouto/IOT-Sistema-Reservatorio)**
 
-<sub><b>ESP32&nbsp; · &nbsp;MQTT&nbsp; · &nbsp;NODE-RED</b></sub>
+<sub>ESP32 · MQTT · NODE-RED</sub>
 
 Monitoramento IoT com comunicação entre dispositivo, mensagens e MySQL.
 
@@ -70,18 +54,18 @@ Monitoramento IoT com comunicação entre dispositivo, mensagens e MySQL.
 <tr>
 <td width="50%" valign="top">
 
-### [CP4 MOBILE](https://github.com/samyrcouto/cp4-mobile)
+**[CP4 MOBILE](https://github.com/samyrcouto/cp4-mobile)**
 
-<sub><b>REACT NATIVE&nbsp; · &nbsp;TYPESCRIPT</b></sub>
+<sub>REACT NATIVE · TYPESCRIPT</sub>
 
 Aplicação mobile com autenticação, perfil e integração com Firebase.
 
 </td>
 <td width="50%" valign="top">
 
-### [FUTURE WORK](https://github.com/samyrcouto/Future-Work)
+**[FUTURE WORK](https://github.com/samyrcouto/Future-Work)**
 
-<sub><b>REACT&nbsp; · &nbsp;VITE&nbsp; · &nbsp;TYPESCRIPT</b></sub>
+<sub>REACT · VITE · TYPESCRIPT</sub>
 
 Aplicação web explorando integração com serviços backend e APIs.
 
@@ -89,9 +73,9 @@ Aplicação web explorando integração com serviços backend e APIs.
 </tr>
 </table>
 
-## 03 / TECHNICAL SKILLS
+![03 / Technical Skills](assets/skills.svg)
 
-| | |
+| AREA | TECHNOLOGIES |
 |:--|:--|
 | **BACKEND** | Java · Spring Boot · Spring Data JPA · APIs REST |
 | **DATA** | Oracle · SQL · PL/SQL · MySQL · Azure SQL |
@@ -101,8 +85,8 @@ Aplicação web explorando integração com serviços backend e APIs.
 
 ---
 
-## [LINKEDIN](https://www.linkedin.com/in/samyr-couto-12932834b/) &nbsp; / &nbsp; [EMAIL](mailto:ssmyrcouto@gmail.com) &nbsp; / &nbsp; [GITHUB](https://github.com/samyrcouto)
+[LINKEDIN](https://www.linkedin.com/in/samyr-couto-12932834b/) &nbsp; / &nbsp; [EMAIL](mailto:ssmyrcouto@gmail.com) &nbsp; / &nbsp; [GITHUB](https://github.com/samyrcouto)
 
-<sub>PORTUGUÊS AVANÇADO&nbsp; · &nbsp;ENGLISH B1+ CAMBRIDGE</sub>
+<sub>PORTUGUÊS AVANÇADO · ENGLISH B1+ CAMBRIDGE</sub>
 
 </div>
