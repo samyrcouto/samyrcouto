@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets-copperplate/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets-copperplate/header-light.svg"><img alt="Samyr Couto Oliveira, Estudante de Desenvolvimento de Software na FIAP" src="assets-copperplate/header-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets-copperplate/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets-copperplate/header-light.svg"><img alt="Samyr Couto Oliveira, Estudante de Análise e Desenvolvimento de Sistemas na FIAP" src="assets-copperplate/header-dark.svg" width="100%"></picture>
 
 <p align="center"><a href="#projetos">Projetos</a> &nbsp;·&nbsp; <a href="#stack">Stack</a> &nbsp;·&nbsp; <a href="#contato">Contato</a></p>
 
