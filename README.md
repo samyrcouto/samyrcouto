@@ -1,92 +1,53 @@
 <div align="left">
 
-![Software Development](assets/header.svg)
+# Samyr Couto Oliveira
 
-![01 / Profile](assets/profile.svg)
+**Software Development Student · FIAP**
 
-**Estudante de Análise e Desenvolvimento de Sistemas na FIAP.**
+Backend development, REST APIs, databases, cloud and IoT.
 
-Projetos acadêmicos, desenvolvimento backend, APIs REST, bancos de dados, cloud e integração com IoT.
-
-![02 / Selected Projects](assets/projects.svg)
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[PROJETO AGRO](https://github.com/Group-GS/Gs-Java)**
-
-<sub>JAVA · API · IoT</sub>
-
-API Java e persistência de dados para monitoramento agrícola integrado a sensores ESP32.
-
-</td>
-<td width="50%" valign="top">
-
-**[CLYVO VET](https://github.com/Challenge-CLYVO/Database-Challenge)**
-
-<sub>ORACLE · SQL · PL/SQL</sub>
-
-Modelagem e rotinas de banco de dados, incluindo procedures, functions e triggers.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[DIMDIM MUSIC](https://github.com/samyrcouto/dimdim-music-devops5)**
-
-<sub>JAVA · SPRING BOOT · DEVOPS</sub>
-
-API REST para catálogo musical, documentação Swagger/OpenAPI e práticas Azure.
-
-</td>
-<td width="50%" valign="top">
-
-**[SISTEMA DE RESERVATÓRIO](https://github.com/samyrcouto/IOT-Sistema-Reservatorio)**
-
-<sub>ESP32 · MQTT · NODE-RED</sub>
-
-Monitoramento IoT com comunicação entre dispositivo, mensagens e MySQL.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[CP4 MOBILE](https://github.com/samyrcouto/cp4-mobile)**
-
-<sub>REACT NATIVE · TYPESCRIPT</sub>
-
-Aplicação mobile com autenticação, perfil e integração com Firebase.
-
-</td>
-<td width="50%" valign="top">
-
-**[FUTURE WORK](https://github.com/samyrcouto/Future-Work)**
-
-<sub>REACT · VITE · TYPESCRIPT</sub>
-
-Aplicação web explorando integração com serviços backend e APIs.
-
-</td>
-</tr>
-</table>
-
-![03 / Technical Skills](assets/skills.svg)
-
-| AREA | TECHNOLOGIES |
-|:--|:--|
-| **BACKEND** | Java · Spring Boot · Spring Data JPA · APIs REST |
-| **DATA** | Oracle · SQL · PL/SQL · MySQL · Azure SQL |
-| **FRONTEND** | JavaScript · TypeScript · React · HTML · CSS |
-| **CLOUD / DEVOPS** | Azure · Docker · Docker Compose · Git · Azure DevOps |
-| **IoT / API** | Swagger · Postman · ESP32 · MQTT · Node-RED |
+[GitHub](https://github.com/samyrcouto) · [LinkedIn](https://www.linkedin.com/in/samyr-couto-12932834b/) · [Email](mailto:ssmyrcouto@gmail.com)
 
 ---
 
-[LINKEDIN](https://www.linkedin.com/in/samyr-couto-12932834b/) &nbsp; / &nbsp; [EMAIL](mailto:ssmyrcouto@gmail.com) &nbsp; / &nbsp; [GITHUB](https://github.com/samyrcouto)
+## Projects
 
-<sub>PORTUGUÊS AVANÇADO · ENGLISH B1+ CAMBRIDGE</sub>
+**[Projeto Agro](https://github.com/Group-GS/Gs-Java)**  
+`Java` `API` `ESP32`  
+Java API and data persistence for agricultural monitoring with ESP32 sensors.
+
+**[Clyvo Vet — Database Challenge](https://github.com/Challenge-CLYVO/Database-Challenge)**  
+`Oracle SQL` `PL/SQL`  
+Database modeling, procedures, functions and triggers.
+
+**[Dimdim Music](https://github.com/samyrcouto/dimdim-music-devops5)**  
+`Java` `Spring Boot` `Swagger` `Azure`  
+REST API for a music catalog with API documentation.
+
+**[IoT Reservoir Monitoring](https://github.com/samyrcouto/IOT-Sistema-Reservatorio)**  
+`ESP32` `MQTT` `Node-RED` `MySQL`  
+IoT monitoring with device communication and database integration.
+
+**[CP4 Mobile](https://github.com/samyrcouto/cp4-mobile)**  
+`React Native` `TypeScript` `Firebase`  
+Mobile application with authentication, profiles and Firebase integration.
+
+**[Future Work](https://github.com/samyrcouto/Future-Work)**  
+`React` `Vite` `TypeScript`  
+Web application exploring backend service and API integration.
+
+---
+
+## Technologies
+
+- **Backend:** Java, Spring Boot, REST APIs
+- **Databases:** Oracle, SQL, PL/SQL, MySQL
+- **Frontend:** JavaScript, TypeScript, React
+- **Cloud & DevOps:** Azure, Docker, Git, Azure DevOps
+- **IoT:** ESP32, MQTT, Node-RED
+
+---
+
+**English:** B1+ Cambridge · **Education:** Systems Analysis and Development, FIAP · Expected graduation: Dec 2026
 
 </div>
